@@ -1,6 +1,6 @@
 ![logo](https://github.com/rohitks77/rohitks77/blob/main/rohitks_banner.jpg)
 <h1 align="center">Hi 👋, I'm Rohit Kumar Sah</h1>
-<h3 align="center">A passionate Front-end web developer, video editor, and content creato.</h3>
+<h3 align="center">A passionate Front-end web developer, video editor, and content creator.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitks77&label=Profile%20views&color=0e75b6&style=flat" alt="rohitks77" /> </p>
 
